@@ -1,6 +1,4 @@
 # Host a Wordpress site on Google Cloud using a Kubernetes cluster.
-
-## Objective
 This guide is a step-by-step explanation of how to create an enterprise grade, scalable, Wordpress website on google cloud. I will explain how to configure and host the site as well as how to scale the node count when needed.
 
 ## Pre-requisites
