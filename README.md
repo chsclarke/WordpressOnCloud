@@ -116,9 +116,11 @@ Paste the IP address under (`wordpress-lb`,`EXTERNAL-IP`) into your browser and 
 
 
 If your website is using too many resources, scale it down to 0 to stop paying:
+
     kubectl scale deployment wordpress --replicas=0
     
 To scale the website up to handle increased traffic, scale it up as much as you want:
+
     kubectl scale deployment wordpress --replicas=AS_MUCH_AS_YOU_NEED
 
 ## Cleanup
