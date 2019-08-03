@@ -115,6 +115,7 @@ You can also see this in your DO dashboard: Networking --> Load Balancers.
 Paste the IP address under (`wordpress-lb`,`EXTERNAL-IP`) into your browser and you will see your Wordpress site!
 
 
+
 If your website is using too many resources, scale it down to 0 to stop paying:
 
     kubectl scale deployment wordpress --replicas=0
