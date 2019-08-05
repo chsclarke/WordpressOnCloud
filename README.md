@@ -15,7 +15,7 @@ You are ready to go!
 ## Notes
 Credit to [groovemonkey](https://github.com/groovemonkey) for his Wordpress and Kubernetes guides. The config files as well as part of this README were sourced from his repositories and updated for Google Cloud.
 
-Check out the Wordpress docker documentation [here](https://hub.docker.com/_/wordpress/):
+Check out the Wordpress docker documentation [here](https://hub.docker.com/_/wordpress/)
 
 Pay attention to:
 - environment variables that the container uses (INPUT)
