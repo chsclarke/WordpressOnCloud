@@ -13,7 +13,7 @@ Once created, open a Google Cloud shell by going back to your  `Kubernetes Clust
 You are ready to go!
 
 ## Notes
-Credit to [groovemonkey](https://github.com/groovemonkey) for his Wordpress and Kubernetes guides. The config files as well as part of this README were sourced from his repositories and updated for Google Cloud.
+Credit to [groovemonkey](https://github.com/groovemonkey) for some of his explanations on GC specific kubernetes deployments.
 
 Check out the Wordpress docker documentation [here](https://hub.docker.com/_/wordpress/)
 
